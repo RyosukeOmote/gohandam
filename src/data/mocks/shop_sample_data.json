@@ -1,0 +1,103 @@
+{
+    "results": {
+      "api_version": "1.30",
+      "results_available": 1,
+      "results_returned": 1,
+      "results_start": 1,
+      "shop": {
+        "id": "J001226170",
+        "name": "龍記 六本木店",
+        "logo_image": "https://imgfp.hotp.jp/IMGH/93/97/P030369397/P030369397_69.jpg",
+        "name_kana": "ほんかくちゅうかたべのみほうだいりゅうきろっぽんぎてん",
+        "address": "東京都港区六本木３丁目２－１　六本木グランドタワー２Ｆ",
+        "station_name": "六本木一丁目",
+        "ktai_coupon": 0,
+        "large_service_area": {
+          "code": "SS10",
+          "name": "関東"
+        },
+        "service_area": {
+          "code": "SA11",
+          "name": "東京"
+        },
+        "large_area": {
+          "code": "Z011",
+          "name": "東京"
+        },
+        "middle_area": {
+          "code": "Y045",
+          "name": "赤坂・六本木・麻布十番・西麻布"
+        },
+        "small_area": {
+          "code": "X130",
+          "name": "六本木"
+        },
+        "lat": 35.6646465238,
+        "lng": 139.7379787431,
+        "genre": {
+          "name": "居酒屋",
+          "catch": "豪華！食べ飲み放題のコース今だけ3680円～",
+          "code": "G001"
+        },
+        "sub_genre": {
+          "name": "中華",
+          "code": "G007"
+        },
+        "budget": {
+          "code": "B003",
+          "name": "3001～4000円",
+          "average": "【通常平均】3000円/【宴会平均】4000円/【ランチ平均】1000円"
+        },
+        "catch": "半個室あり★店内貸切もOK 絶品！本格中華",
+        "capacity": 60,
+        "access": "東京メトロ南北線六本木一丁目駅１出口より徒歩約2分/東京メトロ日比谷線，都営大江戸線六本木駅５出口より徒歩約7分",
+        "mobile_access": "東京ﾒﾄﾛ南北線六本木一丁目駅1出口より徒歩約2分",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001226170/?vos=nhppalsa000016"
+        },
+        "photo": {
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/67/00/P040816700/P040816700_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/67/00/P040816700/P040816700_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/67/00/P040816700/P040816700_58_s.jpg"
+          },
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/67/00/P040816700/P040816700_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/67/00/P040816700/P040816700_100.jpg"
+          }
+        },
+        "open": "月～金: 11:00～15:00 （料理L.O. 14:30 ドリンクL.O. 14:30）17:00～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）土、祝日: 11:00～15:00 （料理L.O. 14:30 ドリンクL.O. 14:30）17:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "close": "日",
+        "party_capacity": 70,
+        "other_memo": null,
+        "shop_detail_memo": "予約キャンセル規定：直接お店にお問い合わせください。",
+        "budget_memo": "電子マネー、QRコード決済は今後導入予定ですがまだ使えません。",
+        "wedding": "二次会利用にも大人気!!使い勝手抜群の単品飲み放題はビールも飲み放題",
+        "course": "あり",
+        "free_drink": "あり",
+        "free_food": "あり",
+        "private_room": "あり ：※個室の詳細はお店にお問い合わせください。",
+        "horigotatsu": "なし",
+        "tatami": "なし",
+        "card": "利用可",
+        "non_smoking": "一部禁煙",
+        "charter": "貸切可 ：※40名様 ～70名様まで可能です。（土・日・祝日は25名様貸切可能です）",
+        "parking": "なし",
+        "barrier_free": "なし",
+        "show": "なし",
+        "karaoke": "なし",
+        "band": "不可",
+        "tv": "なし",
+        "lunch": "あり",
+        "midnight": "営業していない",
+        "english": "なし",
+        "pet": "不可",
+        "child": "お子様連れOK ：ファミリーでのご利用にも大人気◎個室×食べ放題♪安心安全なお食事をリーズナブルにどうぞ",
+        "wifi": "未確認",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001226170/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001226170/scoupon/?vos=nhppalsa000016"
+        }
+      }
+    }
+  }
